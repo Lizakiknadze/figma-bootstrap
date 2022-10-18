@@ -91,12 +91,24 @@ img {
 	height: 200px;
 	background-color: rgba(0, 0, 0, 1);
 }
+.icons{
+    align-items: center;
+    margin-left: 150px;
+    padding: 7px;
+    margin-top: 50px;
+    left: 14.18%;
+    right: 14.17%;
+    top: 9.38%;
+    bottom: 9.38%;
+    Width: 71.65px;
+    height: 81.25px;
+}
 
-.icons-list {
+/* .icons-list {
 	list-style: none;
 	justify-content: space-between;
 	align-items: center;
-}
+} */
 
 .head-text {
 	font-family: "Poppins";
@@ -134,13 +146,55 @@ img {
 .years {
 	margin-top: 200px;
 }
+.PR{
+    position: relative;
+}
 
-.cards {
+/* .container-cards {
 	position: absolute;
-	width: 622.03px;
-	height: 286.4px;
+	width: 286.4px;
+	height: 622.03px;
 	left: 1021px;
 	top: 1386.05px;
 	background: rgba(103, 108, 219, 1);
-	transform: rotate(90.47deg);
+} */
+.lurji{
+	width: 286.4px;
+	height: 622.03px;
+	left: 1021px;
+	top: 1386.05px;
+	background: rgba(103, 108, 219, 1);
+}
+.nacrisperi{
+    width: 288px;
+    height: 288px;
+    left: 1032px;
+    top: 1386px;
+    background: #C4C4C4;
+}
+.bolotext{
+    width: 490px;
+    height: 252px;
+    /* left: 404px;
+    top: 77px; */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 180%;
+    color: #FFFFFF;
+}
+.ricxvi{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    color: #676CDB;
+
+}
+.lastpart{
+    background-image: url(qvedapoto.svg);
+    background-repeat: no-repeat;
+    background-position: left;
 }
